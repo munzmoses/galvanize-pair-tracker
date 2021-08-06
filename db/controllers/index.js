@@ -12,4 +12,7 @@ pairRouter.post('/', async (req, res) => {
 pairRouter.put('/', async (req, res) => {
 });
 
+pairRouter.delete('/', async (req, res) => {
+});
+
 module.exports = pairRouter;
